@@ -1,0 +1,9 @@
+pyjwt
+python-multipart
+bcrypt
+pycryptodome
+fastapi
+python-jose[cryptography]
+uvicorn[standard]
+starlette
+psycopg2-binary

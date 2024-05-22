@@ -1,0 +1,13 @@
+2024-02-02 23:09:00,976 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:09:13,301 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:10,447 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:14,774 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:14,927 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:15,094 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:15,622 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:15,764 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-02 23:10:15,913 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-23 23:13:31,564 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-25 21:57:26,851 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-25 21:58:18,266 - todos_logger - INFO - User Execute Read All Function - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
+2024-02-25 21:59:52,777 - todos_logger - INFO - User raed todo by id = 1 - {'Username': 'NOY3HC', 'User_Id': 1, 'User_Role': 'admin', 'First_Name': 'Loi', 'Last_Name': 'Nguyen Huynh Dai'}
