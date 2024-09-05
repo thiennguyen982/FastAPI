@@ -16,3 +16,8 @@
 2024-02-23 23:14:18,792 - auth_logger - INFO - User Login Failed In Authentication - NOY3HC2
 2024-02-25 21:57:22,166 - auth_logger - INFO - User Login - NOY3HC
 2024-02-25 21:57:22,168 - auth_logger - INFO - Login Success - NOY3HC
+2024-09-05 18:20:52,943 - auth_logger - INFO - User Created - huynmn
+2024-09-05 18:21:18,975 - auth_logger - INFO - User Login - huynmn
+2024-09-05 18:21:18,975 - auth_logger - INFO - Login Success - huynmn
+2024-09-05 18:21:55,811 - auth_logger - INFO - User Login - huynmn
+2024-09-05 18:21:55,811 - auth_logger - INFO - Login Success - huynmn
